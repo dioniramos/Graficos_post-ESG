@@ -3,7 +3,7 @@
 ***
 ## Crescimento nas pesquisas sobre o termo "ESG"
 * **Google trends**
-	* baixar o csv com os dados de 01/01/2010-31/12/2020 com as pesquisas do termo "ESG" no Brasil e no Mundo.
+	* baixar o csv com os dados de 01/01/2011-31/12/2020 com as pesquisas do termo "ESG" no Brasil e no Mundo.
 
 ***
 ## Visualização da composição das carteira
