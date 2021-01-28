@@ -1,19 +1,20 @@
 # **ESG - Post Medium**
 
 ***
-## Crescimento nas pesquisas sobre o termo "ESG"
+## Growth in searches on the term "ESG"
 * **Google trends**
-	* baixar o csv com os dados de 01/01/2011-31/12/2020 com as pesquisas do termo "ESG" no Brasil e no Mundo.
+	* Download the csv with data from 01/01 / 2011-31 / 12/2020 with searches for the term "ESG" in Brazil and worldwide.
 
 ***
-## Visualização da composição das carteira
-* **Web scraping da composição da carteiras no site da B3**
+## Visualization of portfolio composition
+* **Web scraping of the composition of the portfolio on the B3 website**
 	* Ibovespa - [IBOV](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-amplos/ibovespa.html)
 	* Indice de Sustentabilidade Empresarial - [ISE](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-sustentabilidade/indice-de-sustentabilidade-empresarial-ise.html)
 	* Indice Carbono Eficiente - [ICO2](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-sustentabilidade/indice-carbono-eficiente-ico2.html)
-* **Gráfico de visualização**
 
 ***
-## Baixar dados de cotações diarias dos indices para visualizar o retorno ao longo do tempo
+## Download daily quotation data from the indices to visualize the return over time
 * **Investing (API) - [investpy](https://pypi.org/project/investpy/)**
-* **plotar gráfico de linha para melhor visulização**
+* **Plot line graph for better visualization**
+
+***
